@@ -1,6 +1,6 @@
 # StudentConnect Backend
 
-Welcome to the **StudentConnect Backend** repository. This is a robust, scalable Java-based REST API built using Spring Boot. It serves as the core engine for the StudentConnect platform, handling user authentication, profiles, mentorship connections, job applications, and real-time push notifications.
+Welcome to the **StudentConnect Backend** repository. This is a robust, scalable Java based REST API built using Spring Boot. It serves as the core engine for the StudentConnect platform, handling user authentication, profiles, mentorship connections, job applications, and real time push notifications.
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to the **StudentConnect Backend** repository. This is a robust, scalable
 * **Framework:** Spring Boot 3.x
     * Spring Security (with JWT Authentication)
     * Spring Data JPA (Data Persistence)
-* **Database:** PostgreSQL / MySQL (Configurable via profiles)
+* **Database:** PostgreSQL
 * **Build Tool:** Maven
 
 ---
